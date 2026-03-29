@@ -1,3 +1,4 @@
 # Bhavik-Demo
-This is my first Repo <Br>
-Author - Bhavik Gauswami
+This is my first Repo 
+<br>
+Author - Bhavik Giri Gauswami
